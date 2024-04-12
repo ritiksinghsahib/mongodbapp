@@ -1,0 +1,7 @@
+{
+    "app_id": "leak_data_lake-ifmuc",
+    "config_version": 20210101,
+    "name": "Leak_Data_Lake",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL"
+}
